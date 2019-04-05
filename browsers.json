@@ -1,0 +1,136 @@
+[
+  {
+    "os": "Windows",
+    "os_version": "10",
+    "browserName": "chrome",
+    "chromeOptions" : {
+    "excludeSwitches" : ["disable-popup-blocking"],
+    "args" : ["--lang=en"]
+    },
+    "device": null,
+    "build" : "build1.0",
+    "browser_version": "72.0",
+    "real_mobile": null,
+    "browserstack.seleniumLogs" : "true",
+    "browserstack.user" : "smith183",
+    "browserstack.key" : "r7BYYpNcTYWKmj4Pz1xA"
+  },
+  {
+    "os": "Windows",
+    "os_version": "10",
+    "browserName": "chrome",
+    "device": null,
+    "build" : "build1.0",
+    "browser_version": "72.0",
+    "real_mobile": null,
+    "browserstack.seleniumLogs" : "true",
+    "browserstack.user" : "smith183",
+    "browserstack.key" : "r7BYYpNcTYWKmj4Pz1xA"
+  },
+  {
+    "os": "Windows",
+    "os_version": "10",
+    "browserName": "chrome",
+    "device": null,
+    "build" : "build1.0",
+    "browser_version": "72.0",
+    "real_mobile": null,
+    "browserstack.seleniumLogs" : "true",
+    "browserstack.user" : "smith183",
+    "browserstack.key" : "r7BYYpNcTYWKmj4Pz1xA"
+  },
+  {
+    "os": "Windows",
+    "os_version": "10",
+    "browserName": "chrome",
+    "build" : "build1.0",
+    "device": null,
+    "browser_version": "72.0",
+    "real_mobile": null,
+    "browserstack.seleniumLogs" : "true",
+    "browserstack.user" : "smith183",
+    "browserstack.key" : "r7BYYpNcTYWKmj4Pz1xA"
+  },
+  
+{
+    "os": "Windows",
+    "os_version": "10",
+    "browserName": "chrome",
+    "chromeOptions" : {
+    "excludeSwitches" : ["disable-popup-blocking"],
+    "args" : ["--lang=en"]
+    },
+    "device": null,
+    "build" : "build1.0",
+    "browser_version": "72.0",
+    "real_mobile": null,
+    "browserstack.seleniumLogs" : "true",
+    "browserstack.user" : "smith183",
+    "browserstack.key" : "r7BYYpNcTYWKmj4Pz1xA"
+  },
+  {
+    "os": "Windows",
+    "os_version": "10",
+    "browserName": "chrome",
+    "chromeOptions" : {
+    "excludeSwitches" : ["disable-popup-blocking"],
+    "args" : ["--lang=en"]
+    },
+    "device": null,
+    "build" : "build1.0",
+    "browser_version": "72.0",
+    "real_mobile": null,
+    "browserstack.seleniumLogs" : "true",
+    "browserstack.user" : "smith183",
+    "browserstack.key" : "r7BYYpNcTYWKmj4Pz1xA"
+  },
+  {
+    "os": "Windows",
+    "os_version": "10",
+    "browserName": "chrome",
+    "chromeOptions" : {
+    "excludeSwitches" : ["disable-popup-blocking"],
+    "args" : ["--lang=en"]
+    },
+    "device": null,
+    "build" : "build1.0",
+    "browser_version": "72.0",
+    "real_mobile": null,
+    "browserstack.seleniumLogs" : "true",
+    "browserstack.user" : "smith183",
+    "browserstack.key" : "r7BYYpNcTYWKmj4Pz1xA"
+  },
+  {
+    "os": "Windows",
+    "os_version": "10",
+    "browserName": "chrome",
+    "chromeOptions" : {
+    "excludeSwitches" : ["disable-popup-blocking"],
+    "args" : ["--lang=en"]
+    },
+    "device": null,
+    "build" : "build1.0",
+    "browser_version": "72.0",
+    "real_mobile": null,
+    "browserstack.seleniumLogs" : "true",
+    "browserstack.user" : "smith183",
+    "browserstack.key" : "r7BYYpNcTYWKmj4Pz1xA"
+  },
+  {
+    "os": "Windows",
+    "os_version": "10",
+    "browserName": "chrome",
+    "chromeOptions" : {
+    "excludeSwitches" : ["disable-popup-blocking"],
+    "args" : ["--lang=en"]
+    },
+    "device": null,
+    "build" : "build1.0",
+    "browser_version": "72.0",
+    "real_mobile": null,
+    "browserstack.seleniumLogs" : "true",
+    "browserstack.user" : "smith183",
+    "browserstack.key" : "r7BYYpNcTYWKmj4Pz1xA"
+  }
+
+]
